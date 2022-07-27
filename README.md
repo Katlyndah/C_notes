@@ -1,2 +1,2 @@
 # C_notes
-Code projects and notes from C lessons and practice
+Projects and notes from C lessons and practice
